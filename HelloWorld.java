@@ -2,7 +2,7 @@ public class HelloWorld {
 
      public static void main(String[] args) {
 	 //This is simple HelloWorld 
-	    System.out.println("Hello World Feb/March/April 2021 Webhook test testing");
+	    System.out.println("Hello World Feb/March/April 2021 Webhook testing");
 		
 	 }
 }
